@@ -10,7 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>awesome-mysql</module>
-        <module>newcoder-mysql</module>
+        <module>awesome-web</module>
+        <module>awesome-java</module>
     </modules>
 
 </project>
