@@ -1,0 +1,3 @@
+[submodule "awesome-java/concurrency-Java"]
+	path = awesome-java/concurrency-Java
+	url = git@github.com:EgoSay/concurrency-Java.git
